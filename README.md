@@ -40,8 +40,7 @@ After completing feature-engineering we are now ready to select the best fearure
 ## Screenshots
 
 
-![App Screenshot](https://static.javatpoint.com/tutorial/machine-learning/images/feature-selection-techniques-in-machine-learning2.png)
-
+![App Screenshot](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/feature-selection-methods-1.png?resize=767%2C452&ssl=1)
 ## Installation
 
 !pip install feature-engine
@@ -70,4 +69,16 @@ After completing feature-engineering we are now ready to select the best fearure
  
 ## Complete Source Code
 
-- [Source](https://feature-engine.readthedocs.io/en/latest/)
+- [Source](https://github.com/Anil0205/ML-Feature-Engineering)
+
+## Data sets
+
+-  [Dataset 1](https://github.com/Anil0205/ML-Feature-Engineering)
+-  [Dataset 2](https://github.com/Anil0205/ML-Feature-Engineering/blob/main/Data%20Cleaning%20For%20Categorical%20Data/titanic.csv)
+## Links
+
+- [Linkdin](https://www.linkedin.com/in/anil-abberaboina-894720243/)
+## Support
+
+For support, email anil.aa0514@gmail.com or join our Slack channel.
+
