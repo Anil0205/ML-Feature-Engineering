@@ -77,7 +77,7 @@ After completing feature-engineering we are now ready to select the best fearure
 -  [Dataset 2](https://github.com/Anil0205/ML-Feature-Engineering/blob/main/Data%20Cleaning%20For%20Categorical%20Data/titanic.csv)
 ## Links 
 
-- [linkedIn](https://www.linkedin.com/in/anil-abberaboina-894720243/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-abberaboina-894720243/)
 ## Support
 
 For support, email anil.aa0514@gmail.com or join our Slack channel.
